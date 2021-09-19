@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ojas19EE
 - 👀 I’m interested in python learning
-- 🌱 I’m currently learning electrical engineering and practicing python
+- 🌱 I’m currently learning electrical engineering and practising python
 - 📫 How to reach me by me- Ojeshpatil2000@gmail.com
                             instagram- me_ojya_i_ix
 
